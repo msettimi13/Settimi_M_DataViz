@@ -10,4 +10,4 @@ And some text about your project, your insights, etc
 
 ### Tools used
 
-### License
+### License (MIT)
