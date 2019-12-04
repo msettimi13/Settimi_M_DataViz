@@ -1,13 +1,25 @@
-maybe an image here?
+![olympiclogo](images/olympicsymbol.png)
 
 # Olympic Data Visualization Project
 
-### Synopsis would go here
+### Requirements
 
-And some text about your project, your insights, etc
+Use a modern browser to open the site
+
+### Built with:
+
+HTML
+CSS
+Python
+
+### Installation
+
+Download the files, go to index.html and right click and open with a modern browser. 
+
+### License
+
+MIT
 
 ### Author
 
-### Tools used
-
-### License (MIT)
+Marisa Settimi
